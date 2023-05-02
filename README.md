@@ -5,7 +5,8 @@
 - Connection resiliency
 - CRUD operations and Validations
 - Saving data
-- Asynchronous query and saving 
+- Asynchronous query and saving
+- Handling concurrency issues
 
 ## NOTE
 - This testing project is currently under development
