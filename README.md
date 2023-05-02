@@ -1,5 +1,6 @@
 # Simple Testing EntityFramework 6 against
 
+## This is a code-first approach
 - Querying data using LINQ (base on IQueryable and IEnumerable performance-wise. Let say with 2 million records)
 - Connection resiliency
 - CRUD operations and Validations
